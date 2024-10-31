@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls",
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.unizon.wanpay",
+            "sha256_cert_fingerprints": [
+                "CD:BA:B2:F8:2A:D4:37:F3:DC:FB:8A:3F:7E:A9:4D:F8:C2:AC:78:96:28:11:90:68:A5:95:14:4E:6B:53:7F:A9"
+            ]
+        }
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "appclips": {
+        "apps": []
+    },
+    "applinks": {
+        "details": [
+            {
+                "appID": "8FKHMHZSWQ.com.unizon.wanpay",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "8FKHMHZSWQ.com.unizon.wanpay"
+        ]
+    }
+}
